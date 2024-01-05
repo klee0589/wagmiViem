@@ -10,6 +10,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-wagmi
 
 ### Install Dependencies:
 
+Navigate to the `wagmi-project` directory
+
 Install Dep
 `npm install`
 
