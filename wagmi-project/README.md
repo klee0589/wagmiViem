@@ -17,3 +17,9 @@ Install Dep
 
 npm start
 `npm start`
+
+Connect Wallet
+click the `inject` option and connect to your wallet
+
+Once connected you may send transaction of ETH to any recipent via address
+![Alt text](<Screenshot 2024-01-05 at 5.19.48 PM.png>)
